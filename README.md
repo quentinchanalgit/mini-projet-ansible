@@ -16,3 +16,12 @@ Un serveur ansible sur Centos 7 va piloter deux machines clients avec des clés 
 établir une communication par échange de clés ssh avec la commande suivante : 
 
 ![image](https://github.com/user-attachments/assets/57507225-7ad2-47af-8be5-9a10e277a9c1)
+
+Il faut ensuite utiliser cette commande pour copier le couple de clés vers les deux machines clientes
+
+![image](https://github.com/user-attachments/assets/2d107a4d-5d0f-408d-aedf-ddc18ee3134e)
+
+
+pour la deuxième machine 
+
+![image](https://github.com/user-attachments/assets/826848de-5b63-486f-86aa-557a0724da77)
