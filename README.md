@@ -44,6 +44,11 @@ client1.yml pour l'adresse ip de la machine cliente 1
 client2.yml pour l'adresse ip de la machine cliente 2
 
 
+Dans le dossier defaults, le fichier main.yml contient les variables par défaut
+
+![image](https://github.com/user-attachments/assets/f6aca608-b27a-4cae-8202-5e1466a4e8e6)
+
+
 
 
 
