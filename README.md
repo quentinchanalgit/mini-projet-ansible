@@ -13,3 +13,6 @@ Dans ce role, il faut installer apache dans un container docker
 système utilisé pour le tp : Centos 7 
 
 Un serveur ansible sur Centos 7 va piloter deux machines clients avec des clés en ssh.
+établir une communication par échange de clés ssh avec la commande suivante : 
+
+![image](https://github.com/user-attachments/assets/57507225-7ad2-47af-8be5-9a10e277a9c1)
