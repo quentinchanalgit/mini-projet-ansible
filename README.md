@@ -25,3 +25,34 @@ Il faut ensuite utiliser cette commande pour copier le couple de clés vers les 
 pour la deuxième machine 
 
 ![image](https://github.com/user-attachments/assets/826848de-5b63-486f-86aa-557a0724da77)
+
+
+créer un répertoir de travail nommé projet-ansible
+![image](https://github.com/user-attachments/assets/96254c01-f0aa-4221-8ce5-add360554f67)
+
+Voici les fichiers du projet :
+
+le fichier ansible.cfg contient l'inventaire et également les roles.
+
+le fichier host.yml se compose comme ceci : un groupe prod et un groupe staging 
+Ces deux groupes possèdent une machine cliente chacun comme le montre la capture ci-dessous 
+
+![image](https://github.com/user-attachments/assets/a3258aa8-b3a5-4cca-bd38-69d2f2976325)
+
+Le dossier host_vars se compose de deux fichiers :
+client1.yml pour l'adresse ip de la machine cliente 1 
+client2.yml pour l'adresse ip de la machine cliente 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
