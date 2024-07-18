@@ -8,3 +8,8 @@ Attendu de ce mini-projet :
 
 image 
 
+Dans ce role, il faut installer apache dans un container docker
+
+système utilisé pour le tp : Centos 7 
+
+Un serveur ansible sur Centos 7 va piloter deux machines clients avec des clés en ssh.
