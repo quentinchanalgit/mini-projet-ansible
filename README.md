@@ -52,6 +52,9 @@ Dans le dossier defaults, le fichier main.yml contient les variables par défaut
 
 Pour que ansible puisse utiliser docker, nous allons prendre la version la plus récente de python 3
 
+Dossier Tasks : 
+le fichier install-docker.yml présente l'ensemble des instructions tasks pour installer docker 
+
 
 
 
